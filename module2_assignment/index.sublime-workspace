@@ -1,0 +1,325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"sr",
+				"script	Tag"
+			],
+			[
+				"b",
+				"rgb()"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-orientation"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"i",
+				"inline-flex"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"widh",
+				"max-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"s",
+				"flex-start"
+			],
+			[
+				"content",
+				"align-content"
+			],
+			[
+				"a",
+				"space-around"
+			],
+			[
+				"cont",
+				"justify-content"
+			],
+			[
+				"inline-b",
+				"inline-block"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"inl",
+				"inline-grid"
+			],
+			[
+				"width",
+				"border-width"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"img",
+				"border-image"
+			],
+			[
+				"inlin",
+				"inline-grid"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"li",
+				"li	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sallamud/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/sallamud/Coursera/Coursera-Assignments/Module2/index.html",
+		"/C/Users/sallamud/Coursera/Coursera-Web-Development/index.html",
+		"/C/Users/sallamud/Coursera/fullstack-course4/examples/Lecture21/floating-before.html",
+		"/C/Users/sallamud/Coursera/fullstack-course4/examples/Lecture21/two-column-after.html",
+		"/C/Users/sallamud/Coursera/fullstack-course4/examples/Lecture21/floating-after.html",
+		"/C/Users/sallamud/Coursera/fullstack-course4/examples/Lecture21/two-column-before.html",
+		"/C/Users/sallamud/Coursera/fullstack-course4/examples/Lecture24/responsive-before.html",
+		"/C/Users/sallamud/Coursera/fullstack-course4/examples/Lecture22/positioning-before.html",
+		"/C/Users/sallamud/Coursera/fullstack-course4/examples/Lecture23/media-queries-before.html",
+		"/C/Users/sallamud/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/sallamud/Desktop/JS/tryouts/bookstore.html",
+		"/C/Users/sallamud/Desktop/JS/tryouts/book_store.html",
+		"/C/Users/sallamud/Desktop/JS/Ex_Files_Fndtn_Sass_Compass/Exercise Files/Chapter 2/02/sass/foundation/components/_alert-boxes.scss",
+		"/C/Users/sallamud/Desktop/JS/tryouts/test_emmet.html",
+		"/C/Users/sallamud/Desktop/JS/Ex_Files_Fndtn_Sass_Compass/Exercise Files/wisdompets-final/index.html",
+		"/C/Users/sallamud/Desktop/JS/tryouts/books.xml",
+		"/C/Users/sallamud/Desktop/JS/tryouts/emmet.html",
+		"/C/Users/sallamud/Desktop/JS/tryouts/emmet.css",
+		"/C/Users/sallamud/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/sallamud/Desktop/JS/Mayuri/index (1).html",
+		"/C/Users/sallamud/Desktop/JS/Mayuri/css/style.css",
+		"/C/Users/sallamud/Desktop/JS/My_store/css/store.css",
+		"/C/Users/sallamud/Desktop/JS/My_store/index.html",
+		"/C/Users/sallamud/Downloads/Package Control.sublime-package"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xml",
+			"ipsum",
+			"main",
+			"proje",
+			"logo",
+			"foo",
+			";\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Callbacks"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
